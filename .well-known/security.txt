@@ -1,0 +1,3 @@
+Contact: mailto:security@ethraeon.systems
+Policy: https://ethraeon.systems/security
+Preferred-Languages: en
