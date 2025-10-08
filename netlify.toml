@@ -1,0 +1,13 @@
+[build]
+  command = ""         # no build step
+  publish = "."        # serve repo root
+
+[[redirects]]
+  from = "/legal/*"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
