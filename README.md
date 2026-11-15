@@ -4,7 +4,7 @@ A static legal page: `index.html`, `style.css`, `netlify.toml`, `_redirects` and
 
 ## Legal estate
 
-The legal estate of ETHRAEON Systems holds Terms, Privacy, Cookies, Trust Center, SLA and CIGS. This repository is archived once the move is checked.
+The legal estate of ETHRAEON Systems is to hold Terms, Privacy, Cookies, Trust Center, SLA and CIGS. This repository is archived once the move is checked.
 
 ## Contact
 
