@@ -2,9 +2,9 @@
 
 A static legal page: `index.html`, `style.css`, `netlify.toml`, `_redirects` and `.well-known/`.
 
-## Its home now
+## Legal estate
 
-The legal estate of ETHRAEON Systems lives at https://genthos-legal.ethraeon.ai/: Terms, Privacy, Cookies, Trust Center, SLA and CIGS. This repository points there.
+The legal estate of ETHRAEON Systems holds Terms, Privacy, Cookies, Trust Center, SLA and CIGS. This repository is archived once the move is checked.
 
 ## Contact
 
